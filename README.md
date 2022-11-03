@@ -5,7 +5,7 @@ You can find pre-compiled extension for `php 8.0.19` in `/src` folder
 ## How to compile - interbase.so
 1. First clone the source repository to you local machine
 ```bash
-https://github.com/FirebirdSQL/php-firebird.git
+git clone https://github.com/FirebirdSQL/php-firebird.git
 ```
 2. Cd into folder
 ```bash
@@ -37,7 +37,7 @@ extension=interbase.so
 1. First clone the source repository to you local machine
 
 ```bash
-git clone https://github.com/php/php-src
+git clone https://github.com/php/php-src.git
 ```
 | Note: be sure to checkout to tag which match your php version! |
 | --- |
